@@ -5,6 +5,7 @@ import Pricing from "@/components/Pricing";
 import Faq from "@/components/Faq";
 import Future from "@/components/Future";
 import Reklam from "@/components/Reklam";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       >
         <Pricing />
       </motion.div>
+      <WhatsAppButton/>
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
