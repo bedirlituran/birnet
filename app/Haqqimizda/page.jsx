@@ -14,8 +14,8 @@ const AboutUs = () => {
             <div className="bg-white p-8 shadow-lg rounded-lg">
               <h2 className="text-2xl font-semibold text-gray-800">Şirkətimiz</h2>
               <p className="mt-4 text-gray-600">
-                2010-cu ildən fəaliyyət göstərən şirkətimiz, texnologiya və innovasiyanın gücündən istifadə edərək müştərilərinə həllər təqdim edir. 
-                Məqsədimiz, hər addımda müştərilərimizə dəyər qatmaqdır.
+               Şirkətimiz texnologiya və innovasiyanın gücündən istifadə edərək müştərilərinə müasir və effektiv həllər təqdim edir.
+Məqsədimiz, hər addımda müştərilərimizə real dəyər qatmaqdır.
               </p>
             </div>
   
